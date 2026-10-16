@@ -1,0 +1,29 @@
+{
+  "departamentos": [
+    {
+      "id": 1,
+      "nombre": "Informática"
+    },
+    {
+      "id": 2,
+      "nombre": "RRHH"
+    }
+  ],
+  "empleados": [
+    {
+      "id": 1,
+      "nombre": "Daniel",
+      "departamentoId": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Ana",
+      "departamentoId": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Pedro",
+      "departamentoId": 2
+    }
+  ]
+}
